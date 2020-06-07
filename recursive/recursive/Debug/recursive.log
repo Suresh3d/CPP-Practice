@@ -1,0 +1,4 @@
+﻿  recursive.cpp
+E:\CPP Practice\recursive\recursive\recursive.cpp(73,33): warning C4018: '>=': signed/unsigned mismatch
+E:\CPP Practice\recursive\recursive\recursive.cpp(129,20): warning C4018: '<': signed/unsigned mismatch
+  recursive.vcxproj -> E:\CPP Practice\recursive\Debug\recursive.exe
